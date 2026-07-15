@@ -48,9 +48,6 @@ This code source was developed with the following items:
 
 |                                            [Linkedin](https://www.linkedin.com/in/icaro-ricardo-css/)                                             |
 
-# Credits
-
-icons by [Pino Lamanna][dribble-icon]
 
 [typescript]: https://www.typescriptlang.org/
 [typescript-5-4]: https://www.typescriptlang.org/
